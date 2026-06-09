@@ -53,5 +53,5 @@ Make sure you have a local web server environment installed, such as **XAMPP**, 
    ```http
    http://localhost/CRUD PHP/display.php
 
-  Live Link : https://dulanacrud.infy.click/index.php
+  Live Link : https://dulanacrud.infy.click
    
