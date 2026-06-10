@@ -4,6 +4,11 @@ A clean, modern, and fully mobile-responsive **User Management Dashboard** built
 
 ---
 
+### Security Updates
+
+<img width="716" height="1219" alt="security-update" src="https://github.com/user-attachments/assets/ec0e10dc-9006-4456-89cb-c4b762cd9a8f" />
+
+---
 ##  Tech Stack & Badges
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
